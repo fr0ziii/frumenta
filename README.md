@@ -1,3 +1,4 @@
+<h1 align="center">Frumenta</h1>
 <h3 align="center">
   <a name="readme-top"></a>
   <img
