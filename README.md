@@ -1,11 +1,4 @@
 <h1 align="center">Frumenta</h1>
-<h3 align="center">
-  <a name="readme-top"></a>
-  <img
-    src="frontend/public/placeholder-logo.png"
-    height="200"
-  >
-</h3>
 <div align="center">
     <a href="https://github.com/fr0ziii/frumenta/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/fr0ziii/frumenta" alt="License">
@@ -14,10 +7,6 @@
   <img src="https://img.shields.io/github/contributors/fr0ziii/frumenta.svg" alt="GitHub Contributors">
 </a>
 </div>
-
-# Frumenta
-
-A web scraping and data extraction tool.
 
 ## Description
 
