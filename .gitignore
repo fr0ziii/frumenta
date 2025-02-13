@@ -1,0 +1,33 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE generated files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Python-specific files
+*.pyc
+*.pyd
+__pycache__/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node.js-specific files
+node_modules/
+package-lock.json
+yarn.lock
+
+# Cline-specific files
+memory-bank/
+.clinerules
+
+# Docs-specific files
+docs/
