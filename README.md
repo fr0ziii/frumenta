@@ -15,8 +15,8 @@ This project provides a set of tools for web scraping and data extraction. It in
 ## Getting Started
 
 1.  Clone the repository: `git clone [repository URL]`
-2.  Install the dependencies: `pip install -r requirements.txt` (for the backend) and `cd frontend && npm install` (for the frontend)
-3.  Run the application: `python main.py` (for the backend) and `cd frontend && npm run dev` (for the frontend)
+2.  Install the dependencies: `pip install -r backend/requirements.txt` (for the backend) and `cd frontend && npm install` (for the frontend)
+3.  Run the application: `python backend/main.py` (for the backend) and `cd frontend && npm run dev` (for the frontend)
 
 ## Usage
 
