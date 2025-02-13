@@ -20,7 +20,7 @@ export default function UrlCrawlerForm() {
     setError(null)
     setResult(null)
 
-    const apiUrl = activeTab === "scrape" ? "/scrape" : "/crawl";
+    const apiUrl = activeTab === "scrape" ? "http://localhost/api/scrape" : "http://localhost/api/crawl";
 
     try {
       const response = await fetch(apiUrl, {

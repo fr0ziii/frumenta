@@ -1,3 +1,19 @@
+<h3 align="center">
+  <a name="readme-top"></a>
+  <img
+    src="frontend/public/placeholder-logo.png"
+    height="200"
+  >
+</h3>
+<div align="center">
+    <a href="https://github.com/fr0ziii/frumenta/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/fr0ziii/frumenta" alt="License">
+</a>
+<a href="https://GitHub.com/fr0ziii/frumenta/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/fr0ziii/frumenta.svg" alt="GitHub Contributors">
+</a>
+</div>
+
 # Frumenta
 
 A web scraping and data extraction tool.
@@ -31,3 +47,9 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for information on how t
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
